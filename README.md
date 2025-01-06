@@ -9,7 +9,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -39,10 +39,10 @@ This is how I assign the ticket to the correct Agent/Department.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7588cc16-0375-42c4-8aea-2daf8a4c41e2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is where I would locate any changes or comments made within the ticket. This basically is a way to see what all has happened so far between departments/teams, agents and end users.
 </p>
 <br />
 

@@ -47,9 +47,9 @@ This is where I would locate any changes or comments made within the ticket. Thi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/13ac4ecc-5fdd-4245-83e1-8b9673dfc64b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket is completed in its entirety, I would then select 'Resolved'. In the instance that there is no more correspondence from the end user as far as the issue being resolved, we would then select 'Closed'. Usually the 'Closed' option would be if the team has decided to move on from the ticket without a resolution.
 </p>
 <br />
